@@ -1,5 +1,3 @@
-# app-dev
-
 # My Favorite Series: *The Last of Us*
 
 *The Last of Us* is a post-apocalyptic drama series based on the video game of the same name. It tells the story of Joel and Ellie, two survivors in a world ravaged by a fungal infection that turns humans into hostile creatures known as "Clickers."
